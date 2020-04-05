@@ -1,4 +1,5 @@
 ＃include<stdio.h>
 int man(){
-    printf()
+    printf("Hello Word!\n");
+    return 0;
 }
